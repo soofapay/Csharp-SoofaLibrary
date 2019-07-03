@@ -1,6 +1,6 @@
 **SOOFA PAY**
 
-This is the soofapay library for .NET and .NET core.You can use it WPF,winform asp.net mvc,asp.net core and any other .NET application.
+This is the soofapay library for .NET and .NET core.You can use it in WPF,winform asp.net mvc,asp.net core and any other .NET application.
 
 **To get started**
 install the package from the nuget package manage
