@@ -1,4 +1,4 @@
-**SOOFA PAY
+**SOOFA PAY**
 
 This is the soofapay library for .NET and .NET core.You can use it WPF,winform asp.net mvc,asp.net core and any other .NET application.
 
