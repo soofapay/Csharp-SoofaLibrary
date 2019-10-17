@@ -39,7 +39,7 @@ Below is a sample transaction object that you will receive.
     "net_amount": 4.8605,
     "transacted_via": "mpesa",
     "is_money_in": true,
-    "sender": "+254721732519",
+    "sender": "+25471234567",
     "receiver": "Dev Market"
 }
 ```
